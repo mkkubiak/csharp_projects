@@ -1,0 +1,16 @@
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.mainokno3.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.mainokno2.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.mainokno.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.oknohelp.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.firstwindow.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.nickname.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\bin\Debug\reactiontest.exe.config
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\bin\Debug\reactiontest.exe
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\bin\Debug\reactiontest.pdb
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.exe
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\proj2\Zolw\Zolw\obj\Debug\reactiontest.pdb
