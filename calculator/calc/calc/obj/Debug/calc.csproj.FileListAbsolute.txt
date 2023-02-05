@@ -1,0 +1,12 @@
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\bin\Debug\calc.exe.config
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\bin\Debug\calc.exe
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\bin\Debug\calc.pdb
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.Form1.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.Form2.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.exe
+C:\Users\Mikołaj\Desktop\repos\csharp_projects\calculator\calc\Klakuklator2\obj\Debug\calc.pdb
