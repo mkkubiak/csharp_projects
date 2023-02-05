@@ -1,0 +1,11 @@
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\bin\Debug\cpu.exe.config
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\bin\Debug\cpu.exe
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\bin\Debug\cpu.pdb
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.Form1.resources
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.exe
+C:\Users\Mikołaj\Desktop\sem5\POSK\proj5\cpu\cpu\obj\Debug\cpu.pdb
